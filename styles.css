@@ -309,5 +309,131 @@ html, body {
     margin-right: 0px;
 }
 
+.third_block {
+   
+    width: 1200px;
+    height: 855px;
+}   
 
+.our_service {
+    
+    width: 1200px;
+    height: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.our_service p{
+    
+    width: 227px;
+    height: 47px;
+    color: rgba(23, 23, 23, 1);
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 37px;
+    line-height: 46.74px;
+    letter-spacing: 0;
+    text-align: center;
+    
+}
+
+.service_ui{
+    
+    width: 1200px;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    gap:20px;
+
+
+
+}
+.box_service{
+    
+    width: 300px;
+    height: 517px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.up_box_service{
+   
+    width: 300px;
+    height: 419px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 61px;
+    
+
+
+}
+.zagolovok_box_service,
+.info_box_service{
+    margin: 0;
+}
+.zagolovok_box_service{
+    
+    width: 90px;
+    height: 27px;
+    margin-bottom: 25px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19px;
+    line-height: 27px;
+    letter-spacing: 0;
+
+    
+
+}
+.line{
+    border-top:1px solid rgba(21, 21, 21, 1);
+    width: 240px;
+    height: 0px;
+}
+.info_box_service{
+    
+    width: 233px;
+    height: 100px;
+    margin-top: 14px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 24.8px;
+    letter-spacing: 0;
+    text-align: left;
+
+
+}
+
+
+.bottom_box_service{
+    border:3px solid rgba(0, 0, 0, 1);
+    background-color: rgba(255, 225, 0, 1);
+    width: 178px;
+    height: 45px;
+    border-radius: 3px;
+    border-width: 3px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+
+
+
+}
+
+
+
+    
 
