@@ -725,6 +725,11 @@ html, body {
     padding-top: 20px;
     vertical-align: top; 
 }
+.tariff_table tr:hover td {
+  background-color: rgb(202, 198, 198);
+}
+
+
 
 .table_center_width{
     width: 172px;
